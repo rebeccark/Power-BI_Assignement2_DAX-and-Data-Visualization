@@ -1,3 +1,7 @@
+<img width="1970" height="1222" alt="image" src="https://github.com/user-attachments/assets/2acce159-6d69-4e69-92ef-6a2faf4378d3" />
+
+<img width="1962" height="1230" alt="image" src="https://github.com/user-attachments/assets/14a76a05-aca6-439c-9c4e-f5437bbad93e" />
+
 # Power-BI_Assignement2_DAX-and-Data-Visualization
 DAX and Data Visualization
 Part 1: Load and clean the data
